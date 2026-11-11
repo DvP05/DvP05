@@ -82,11 +82,7 @@ I am a **Computer Science (Data Science)** undergraduate at **Jawaharlal Nehru N
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DvP05/DvP05/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DvP05/DvP05/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/DvP05/DvP05/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="koi/koi.gif" width="300" alt="Git Koi Animation" />
 </div>
 
 ---
